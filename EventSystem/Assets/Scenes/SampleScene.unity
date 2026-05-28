@@ -262,7 +262,7 @@ MonoBehaviour:
   removeMenuButton: {fileID: 777547342}
   mainMenuPanel: {fileID: 342253573}
   addMenuPanel: {fileID: 1527026786}
-  removeMenuPanel: {fileID: 0}
+  removeMenuPanel: {fileID: 1550317886}
   buttonPanel: {fileID: 858496711}
 --- !u!1 &107231636
 GameObject:
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   currentState: {fileID: 0}
   mainMenuState: {fileID: 342253577}
   addMenuState: {fileID: 1527026787}
-  removeMenuState: {fileID: 0}
+  removeMenuState: {fileID: 1550317888}
   onUIStateChangedEvent: {fileID: 11400000, guid: bd9547e7470464b41bd21229fcbe6c70, type: 2}
 --- !u!114 &383502808
 MonoBehaviour:
